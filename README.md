@@ -20,4 +20,8 @@ and returns a JSON object with the phone number formatted;
 
 This is just a simple service to be used as an example for the article, not intended for production use. 
 
-Check out DZone's new Microservices section here. 
+###DZone Microservices 
+
+Check out DZone's new Microservices section here:
+
+https://dzone.com/microservices-news-tutorials-tools
