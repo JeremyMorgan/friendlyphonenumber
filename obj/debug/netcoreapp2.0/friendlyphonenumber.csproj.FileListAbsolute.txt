@@ -1,0 +1,20 @@
+C:/Users/Jeremy Morgan/Dropbox/Articles/Dzone Only/friendlyphonenumber/bin/Debug/netcoreapp2.0/friendlyphonenumber.deps.json
+C:/Users/Jeremy Morgan/Dropbox/Articles/Dzone Only/friendlyphonenumber/bin/Debug/netcoreapp2.0/friendlyphonenumber.runtimeconfig.json
+C:/Users/Jeremy Morgan/Dropbox/Articles/Dzone Only/friendlyphonenumber/bin/Debug/netcoreapp2.0/friendlyphonenumber.runtimeconfig.dev.json
+C:/Users/Jeremy Morgan/Dropbox/Articles/Dzone Only/friendlyphonenumber/bin/Debug/netcoreapp2.0/friendlyphonenumber.dll
+C:/Users/Jeremy Morgan/Dropbox/Articles/Dzone Only/friendlyphonenumber/bin/Debug/netcoreapp2.0/friendlyphonenumber.pdb
+C:/Users/Jeremy Morgan/Dropbox/Articles/Dzone Only/friendlyphonenumber/obj/Debug/netcoreapp2.0/friendlyphonenumber.csproj.CoreCompileInputs.cache
+C:/Users/Jeremy Morgan/Dropbox/Articles/Dzone Only/friendlyphonenumber/obj/Debug/netcoreapp2.0/friendlyphonenumber.AssemblyInfoInputs.cache
+C:/Users/Jeremy Morgan/Dropbox/Articles/Dzone Only/friendlyphonenumber/obj/Debug/netcoreapp2.0/friendlyphonenumber.AssemblyInfo.cs
+C:/Users/Jeremy Morgan/Dropbox/Articles/Dzone Only/friendlyphonenumber/obj/Debug/netcoreapp2.0/friendlyphonenumber.dll
+C:/Users/Jeremy Morgan/Dropbox/Articles/Dzone Only/friendlyphonenumber/obj/Debug/netcoreapp2.0/friendlyphonenumber.pdb
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Debug/netcoreapp2.0/friendlyphonenumber.deps.json
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Debug/netcoreapp2.0/friendlyphonenumber.runtimeconfig.json
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Debug/netcoreapp2.0/friendlyphonenumber.runtimeconfig.dev.json
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Debug/netcoreapp2.0/friendlyphonenumber.dll
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Debug/netcoreapp2.0/friendlyphonenumber.pdb
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Debug/netcoreapp2.0/friendlyphonenumber.csproj.CoreCompileInputs.cache
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Debug/netcoreapp2.0/friendlyphonenumber.AssemblyInfoInputs.cache
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Debug/netcoreapp2.0/friendlyphonenumber.AssemblyInfo.cs
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Debug/netcoreapp2.0/friendlyphonenumber.dll
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Debug/netcoreapp2.0/friendlyphonenumber.pdb

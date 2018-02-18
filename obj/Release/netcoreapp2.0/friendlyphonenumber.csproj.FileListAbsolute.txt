@@ -1,0 +1,10 @@
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Release/netcoreapp2.0/friendlyphonenumber.deps.json
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Release/netcoreapp2.0/friendlyphonenumber.runtimeconfig.json
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Release/netcoreapp2.0/friendlyphonenumber.runtimeconfig.dev.json
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Release/netcoreapp2.0/friendlyphonenumber.dll
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Release/netcoreapp2.0/friendlyphonenumber.pdb
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Release/netcoreapp2.0/friendlyphonenumber.csproj.CoreCompileInputs.cache
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Release/netcoreapp2.0/friendlyphonenumber.AssemblyInfoInputs.cache
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Release/netcoreapp2.0/friendlyphonenumber.AssemblyInfo.cs
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Release/netcoreapp2.0/friendlyphonenumber.dll
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Release/netcoreapp2.0/friendlyphonenumber.pdb

@@ -1,0 +1,13 @@
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Debug/netcoreapp2.0/debian-x64/libhostpolicy.so
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Debug/netcoreapp2.0/debian-x64/libhostfxr.so
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Debug/netcoreapp2.0/debian-x64/friendlyphonenumber
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Debug/netcoreapp2.0/debian-x64/friendlyphonenumber.deps.json
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Debug/netcoreapp2.0/debian-x64/friendlyphonenumber.runtimeconfig.json
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Debug/netcoreapp2.0/debian-x64/friendlyphonenumber.runtimeconfig.dev.json
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Debug/netcoreapp2.0/debian-x64/friendlyphonenumber.dll
+/Users/jeremymorgan/projects/friendlyphonenumber/bin/Debug/netcoreapp2.0/debian-x64/friendlyphonenumber.pdb
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Debug/netcoreapp2.0/debian-x64/friendlyphonenumber.csproj.CoreCompileInputs.cache
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Debug/netcoreapp2.0/debian-x64/friendlyphonenumber.AssemblyInfoInputs.cache
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Debug/netcoreapp2.0/debian-x64/friendlyphonenumber.AssemblyInfo.cs
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Debug/netcoreapp2.0/debian-x64/friendlyphonenumber.dll
+/Users/jeremymorgan/projects/friendlyphonenumber/obj/Debug/netcoreapp2.0/debian-x64/friendlyphonenumber.pdb
